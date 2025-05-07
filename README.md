@@ -1,6 +1,6 @@
 Project Summary: OrangeHRM Test Automation
 Project Overview
-I implemented an automated testing solution for the OrangeHRM demo application using Cucumber BDD framework with Selenium WebDriver and Java. The project focused on testing user management functionality in the admin module, including adding, searching for, and deleting users.
+I implemented an automated testing solution for the OrangeHRM demo application using Cucumber BDD framework with Selenium WebDriver and Java. The project tested user management functionality in the admin module, including adding, searching for, and deleting users.
 Technologies Used
 •	Cucumber: For behavior-driven development and readable test scenarios
 •	Selenium WebDriver: For browser automation
